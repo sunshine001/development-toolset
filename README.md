@@ -1,5 +1,5 @@
 # 开发者的效率工具箱
-开发者的效率工具集合，只收集最优秀的，优先免费其次收费的，实时补充中，欢迎留Issues。
+开发者的效率工具集合，只收集最优秀的，优先免费，其次收费，实时补充中，欢迎留Issues补充。
 
 ## 前端
 * IDE：[Visual Studio Code](https://code.visualstudio.com/) 👍
